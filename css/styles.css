@@ -1,0 +1,13 @@
+
+.container{
+    border: solid chocolate 1px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+}
+h1{
+    font-size: 2em;
+    color: red;
+}
